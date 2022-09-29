@@ -1,3 +1,6 @@
 # For Loops
 
-#
+# To get list of packages installed in go use
+>>> go list ...
+# installing packages
+>>> go get 
