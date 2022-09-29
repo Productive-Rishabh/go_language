@@ -23,3 +23,5 @@ if z == x:
 else:
     print("Not a Armstrong Number!")
 """
+
+# print diamond using loop
